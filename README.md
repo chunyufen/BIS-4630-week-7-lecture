@@ -10,4 +10,4 @@ The Middlesex University offers the MSc degree in Electronic Security and Digita
 
 The module called Corporate Compliance And Financial Crime Prevention is coded BIS 4630. It consists of 18-week lectures.
 
-This is the supplementary lecture for Week 1 prepared for Hong Kong Students. The author’s alias is Yufen Chun. The slides are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence.
+This is the supplementary lecture for Week 7 prepared for Hong Kong Students. The author’s alias is Yufen Chun. The slides are licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Licence.
